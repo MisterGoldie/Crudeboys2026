@@ -683,8 +683,8 @@ section.studies .study .study-year {
 }
 
 .wallet-connect-btn {
-    background: #1565ff;
-    color: #FFD700;
+    background: #648A2A;
+    color: #ffffff;
     border: none;
     padding: 8px 16px;
     border-radius: 6px;
@@ -696,11 +696,11 @@ section.studies .study .study-year {
 }
 
 .wallet-connect-btn:hover {
-    background: #0d4ed1;
+    background: #4A6820;
 }
 
 .wallet-connect-btn.connected {
-    background: #648A2A;
+    background: #4A6820;
     color: #ffffff;
 }
 
